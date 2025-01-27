@@ -1,26 +1,32 @@
 🍜 Case Study #1: Danny's Diner
-I came across this project after I started learning SQL and thought it would help me practice the concepts and gain proficiency in data analysis.
 
 Case study  for the #Dannysdinner sql project.
 ![danny's_dinner_sql_projects](https://github.com/user-attachments/assets/66002c79-67cf-47d0-9606-f055a1a23100)
 
+I came across this project after I started learning SQL and thought it would help me practice the concepts and gain proficiency in data analysis.
 
 SQL öğrenmeye başladıktan sonra bu projeyle  karşılaştım ve bunun kavramları pratik etmeme ve data analizinde yetkinlik kazanmama yardımcı olacağını düşündüm.
 
 **Case Study Introduction**
+
 Danny seriously loves Japanese food so in the beginning of 2021, he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
+
 The restaurant has collected some basic data over the course of several months of operation, but they don’t know how to use that data to run the business.
 —
 **Türkçe**
 **Vaka Çalışması Giriş**
+
 Danny Japon yemeklerine gerçekten bayılıyor ve 2021'in başlarında riskli bir işe girişmeye karar veriyor ve en sevdiği 3 yemeği satan sevimli bir restoran açıyor: suşi, köri ve ramen.
 Restoran, birkaç aylık faaliyetleri sırasında bazı temel verileri topladı ancak bu verileri işletmeyi yürütmek için nasıl kullanacaklarını bilmiyorlar.
 
 **Business Task**
+
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 visiting patterns,
 how much money they’ve spent, and
 which menu items are their favourite.
+
+
 The data set contains the following 3 tables which you may refer to the relationship diagram below to understand the connection.
 *sales
 *members
@@ -28,11 +34,7 @@ The data set contains the following 3 tables which you may refer to the relation
 
 
 
-
-
-
-
-Türkçe:
+**Türkçe:**
 
 Danny, verileri müşterileriyle ilgili birkaç basit soruyu cevaplamak için kullanmak istiyor. 
 
@@ -50,7 +52,7 @@ Aşağıdaki varlık ilişki diyagramını ve örnek verileri inceleyebilirsiniz
 
 
 
-Entity Relationship Diagram
+**Entity Relationship Diagram**
 (Tablo İlişkisi)
 
 
@@ -58,7 +60,7 @@ Entity Relationship Diagram
 
 
 You can find all the details for this challenge including datasets here.
-Bu meydan okuma için tüm detayları veri kümeleri dahil burada bulabilirsiniz .
+(Bu meydan okuma için tüm detayları veri kümeleri dahil burada bulabilirsiniz .)
 
 
 
