@@ -2,7 +2,7 @@
 
 Case study  for the #Dannysdinner sql project.
 
-      ![Screen Shot 2025-01-27 at 18 54 10](https://github.com/user-attachments/assets/eb47a440-66bb-4bb9-b1f6-50d1154a1983)
+![Screen Shot 2025-01-27 at 18 54 10](https://github.com/user-attachments/assets/eb47a440-66bb-4bb9-b1f6-50d1154a1983)
 
 I came across this project after I started learning SQL and thought it would help me practice the concepts and gain proficiency in data analysis.
 
